@@ -34,8 +34,8 @@ I create **smart, fast, and creative digital solutions** by combining 20 years o
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcozcn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcozcn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mcozcn&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcozcn&layout=compact&theme=dark" height="180" alt="languages graph" />
 </div>
 
 ---
