@@ -31,15 +31,6 @@ I create **smart, fast, and creative digital solutions** by combining 20 years o
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcozcn&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcozcn&layout=compact&theme=dark" height="180" alt="languages graph" />
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <a href="https://linkedin.com/in/mucahitozcan" target="_blank">
