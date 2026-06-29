@@ -11,32 +11,55 @@ I create **smart, fast, and creative digital solutions** by combining 20+ years 
 ## 🛠️ Tech Stack & Skills
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Description | Category |
-|:--- |:--- |:--- |
-| **[Hivemind](https://hivemindai.vercel.app)** | Multi-modal AI orchestration engine transforming ideas into reality via virtual experts. | AI Platform |
-| **[NoteCloud](https://notecloudorigin.vercel.app/)** | Secure note-taking assistant using Google Drive storage with Neumorphism design. | Productivity Tool |
-| **[Beautiq V2.0](https://beautiq-nine.vercel.app/login)** | Advanced beauty salon management system with appointment scheduling and CRM. | SaaS / App |
-| **[Antalya Turkuaz B2B](https://b2b.antalyaturkuaz.com)** | Comprehensive B2B commerce platform automating dealer and order processes. | B2B Platform |
-| **[Resto Cloud POS](https://resto-cyan.vercel.app/#/login)** | Real-time cloud POS system for restaurants with KDS and table management. | Cloud POS |
-| **[GymPro](https://gympro-alpha.vercel.app)** | End-to-end management CRM/ERP for Personal Training studios. | CRM / ERP |
+### 🤖 AI & Platforms
+| Project | Description | Tech | Link |
+|:--- |:--- |:--- |:--- |
+| **Hivemind** | Multi-LLM creative synthesis platform that builds an expert "dream team" and generates curated prompts & workflows across 8 AI providers. | React · TS · Multi-LLM | [Live](https://hivemindai.vercel.app) |
+| **Yatırımcı** | Multi-asset investment portfolio tracker (stocks, forex, crypto, funds, gold) with rule-based signals and a Claude-powered advisor chat. | Next.js · Prisma · Claude API | — |
+
+### 💼 SaaS & Business Management
+| Project | Description | Tech | Link |
+|:--- |:--- |:--- |:--- |
+| **Beautiq V2.0** | Advanced beauty salon management with appointment scheduling, customer CRM, sales and financial tracking. | React · TS · Supabase | [Live](https://beautiq-nine.vercel.app/login) |
+| **GymPro** | End-to-end CRM/ERP for personal training studios — members, scheduling, finance and WhatsApp reminders. | React · TS · Supabase | [Live](https://gympro-alpha.vercel.app) |
+| **ResolveIT** | IT helpdesk & asset management with email-to-ticket automation, AI summarization and SLA monitoring. | Next.js · Prisma · Claude API | — |
+| **Turkuaz Service** | Warranty & device service tracking system for authorized service centers with an analytics dashboard. | Next.js · Prisma · Supabase | — |
+
+### 🛒 Commerce & POS
+| Project | Description | Tech | Link |
+|:--- |:--- |:--- |:--- |
+| **Antalya Turkuaz B2B** | Enterprise B2B commerce platform with dealer orders, PDF/Excel proposal generation and 3D-Secure payments. | React · TS · Supabase | [Live](https://b2b.antalyaturkuaz.com) |
+| **Resto Cloud POS** | Real-time restaurant POS with Kitchen Display System, table management, QR ordering and Z-Reports. | React · TS · Supabase | [Live](https://resto-cyan.vercel.app/#/login) |
+
+### 📱 Productivity & Social
+| Project | Description | Tech | Link |
+|:--- |:--- |:--- |:--- |
+| **NoteCloud** | Privacy-first note app storing notes in your own Google Drive — OCR, voice capture, PWA, 10 languages. | React · TS · Google Drive API | [Live](https://notecloudorigin.vercel.app/) |
+| **Goygoy** | Discord-style community chat with text/voice/video channels, DMs and screen sharing via LiveKit. | Next.js · LiveKit · Prisma | — |
+
 
 ---
 
 ## 📊 Vibe Coding Stats
 
 - **Experience:** 20+ Years
-- **Projects Delivered:** 50+
+- **Projects Delivered:** 10+
 - **Development Velocity:** 100% High Speed
 - **Focus:** AI-Augmented Development, Digital Strategy, UX/UI
 
