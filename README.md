@@ -56,6 +56,14 @@ I create **smart, fast, and creative digital solutions** by combining 20+ years 
 
 ---
 
+## 🚀 Currently
+
+- 🔭 Building AI-augmented products with the latest **Claude** models
+- 🌱 Exploring multi-LLM orchestration & agentic workflows
+- 💬 Open to collaboration on SaaS, B2B and AI platforms
+
+---
+
 ## 📊 Vibe Coding Stats
 
 - **Experience:** 20+ Years
