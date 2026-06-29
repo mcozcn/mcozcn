@@ -1,6 +1,10 @@
 # Hi there, I'm Mücahit Özcan! 👋
 
+<img src="https://komarev.com/ghpvc/?username=mcozcn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
 ### Vibe Coding Developer & Digital Strategist 🚀
+
+📍 Antalya, Türkiye · 💼 Freelance
 
 > "I transform your ideas into working products exponentially faster than traditional methods."
 
