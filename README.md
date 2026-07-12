@@ -60,6 +60,32 @@ I create **smart, fast, and creative digital solutions** by combining 20+ years 
 
 ---
 
+## 🗂️ Complete Project Index
+
+<details>
+<summary>All 15 repositories, click to expand</summary>
+
+| Project | Description | Tech |
+|:--- |:--- |:--- |
+| **Antalya Turkuaz B2B** | Dealer-facing B2B commerce platform with role-based pricing, order management and PDF/Excel proposal generation. | React · TS · Supabase |
+| **Beautiq** | Beauty salon management system — appointments, POS, customer accounts, stock and commission tracking. | React · TS · Supabase |
+| **Goygoy** | Discord-style team chat with text/voice/video channels, DMs and LiveKit-powered calls. | Next.js · Prisma · LiveKit |
+| **GymPro** | CRM/ERP for personal training studios — members, class scheduling, billing and debt tracking. | React · TS · Supabase |
+| **Hivemind** | Curated library of 100+ expert AI-prompt playbooks for ChatGPT, Claude and Gemini. | React · TS · Static |
+| **mconew** | Bilingual (TR/EN) animated personal portfolio & CV site. | React · Vite · GSAP |
+| **mimimu** | Brand storytelling site for a handmade crochet & knitting studio. | Next.js |
+| **mos** | Marketing site for a boutique personal-training studio. | Next.js |
+| **mosfst7** | Personal FST-7 workout program viewer. | React · TS |
+| **NoteCloud** | Privacy-first note-taking PWA that syncs directly to the user's own Google Drive. | React · TS · Google Drive API |
+| **ResolveIT** | IT helpdesk with email-to-ticket automation, AI-assisted triage and asset management. | Next.js · Prisma · Claude API |
+| **Resto Cloud POS** | Real-time restaurant POS with Kitchen Display System, table management and QR ordering. | React · TS · Supabase |
+| **Turkuaz Service** | Warranty device service-tracking system for authorized service centers. | Next.js · Prisma · Supabase |
+| **Yatırımcı** | Multi-asset investment portfolio tracker with rule-based signals and a Claude-powered advisor. | Next.js · Prisma · Claude API |
+
+</details>
+
+---
+
 ## 🚀 Currently
 
 - 🔭 Building AI-augmented products with the latest **Claude** models
