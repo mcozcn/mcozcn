@@ -111,6 +111,10 @@ I create **smart, fast, and creative digital solutions** by combining 20+ years 
 <a href="mailto:mcozcn@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.mucahitozcan.com" target="_blank">
+<a href="https://mucahitozcan.com" target="_blank">
   <img src="https://img.shields.io/badge/-Website-20232A?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
 </a>
+
+Kişisel site ve vaka çalışmaları:
+[Mücahit Özcan, dijital operasyon ve ürün geliştirme](https://mucahitozcan.com)
+· [Özgeçmiş](https://mucahitozcan.com/cv)
